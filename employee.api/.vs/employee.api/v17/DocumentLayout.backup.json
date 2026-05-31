@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sijo\\employee.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\controllers\\designationmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\controllers\\designationmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\controllers\\authmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\controllers\\authmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\modal\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\modal\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\modal\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\modal\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\modal\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\modal\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\employee.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\employee.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\modal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\modal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\modal\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\modal\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|d:\\sijo\\employee.api\\employee.api\\employee.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4B2B1CC5-79CC-4054-A9EC-E7EA66256AEC}|employee.api\\employee.api.csproj|solutionrelative:employee.api\\employee.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthMasterController.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Controllers\\AuthMasterController.cs",
+              "RelativeDocumentMoniker": "employee.api\\Controllers\\AuthMasterController.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Controllers\\AuthMasterController.cs*",
+              "RelativeToolTip": "employee.api\\Controllers\\AuthMasterController.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywFAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:38:56.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Modal\\Department.cs",
+              "RelativeDocumentMoniker": "employee.api\\Modal\\Department.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Modal\\Department.cs",
+              "RelativeToolTip": "employee.api\\Modal\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T13:45:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\DTOs\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "employee.api\\DTOs\\AuthDTO.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\DTOs\\AuthDTO.cs",
+              "RelativeToolTip": "employee.api\\DTOs\\AuthDTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:09:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentMasterController.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeDocumentMoniker": "employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeToolTip": "employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:23:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesignationMasterController.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Controllers\\DesignationMasterController.cs",
+              "RelativeDocumentMoniker": "employee.api\\Controllers\\DesignationMasterController.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Controllers\\DesignationMasterController.cs",
+              "RelativeToolTip": "employee.api\\Controllers\\DesignationMasterController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwFoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T07:39:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "employee.api\\Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "employee.api\\Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAiwGEBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:07:49.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Program.cs",
+              "RelativeDocumentMoniker": "employee.api\\Program.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Program.cs",
+              "RelativeToolTip": "employee.api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:31:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\appsettings.json",
+              "RelativeDocumentMoniker": "employee.api\\appsettings.json",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\appsettings.json",
+              "RelativeToolTip": "employee.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T11:36:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Modal\\Employee.cs",
+              "RelativeDocumentMoniker": "employee.api\\Modal\\Employee.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Modal\\Employee.cs",
+              "RelativeToolTip": "employee.api\\Modal\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T13:46:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Modal\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "employee.api\\Modal\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Modal\\EmployeeDbContext.cs",
+              "RelativeToolTip": "employee.api\\Modal\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:26:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "employee.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "employee.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:26:18.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Modal\\Auth.cs",
+              "RelativeDocumentMoniker": "employee.api\\Modal\\Auth.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Modal\\Auth.cs",
+              "RelativeToolTip": "employee.api\\Modal\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:19:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "employee.api",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\employee.api.csproj",
+              "RelativeDocumentMoniker": "employee.api\\employee.api.csproj",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\employee.api.csproj",
+              "RelativeToolTip": "employee.api\\employee.api.csproj",
+              "ViewState": "AgIAAA8AAAAAvhEFJp0owAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T22:07:11.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Modal\\Designation.cs",
+              "RelativeDocumentMoniker": "employee.api\\Modal\\Designation.cs",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Modal\\Designation.cs",
+              "RelativeToolTip": "employee.api\\Modal\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T07:30:44.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "employee.api.http",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\employee.api.http",
+              "RelativeDocumentMoniker": "employee.api\\employee.api.http",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\employee.api.http",
+              "RelativeToolTip": "employee.api\\employee.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-23T21:19:11.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\sijo\\employee.api\\employee.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "employee.api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\sijo\\employee.api\\employee.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "employee.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T21:19:27.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
